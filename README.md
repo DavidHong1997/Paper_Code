@@ -5,7 +5,7 @@ Compile this code:
 
 ```
 cd ~/Paper_code
-make clen
+make clean
 make
 ```
 
