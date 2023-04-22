@@ -13,7 +13,6 @@ System flowchart:
 ![flowchart](./flowchart.jpg)
 
 Visualize:
-
+[link](https://www.youtube.com/watch?v=GgkYmTRFHzA)
 ![vido](./video.png)
 
-(https://www.youtube.com/watch?v=GgkYmTRFHzA)
